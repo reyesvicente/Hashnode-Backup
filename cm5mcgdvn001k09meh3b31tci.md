@@ -24,10 +24,9 @@ In this tutorial, we'll build a secure backend API using FastAPI that handles co
 
 ## Step 1 : Setting up the project
 
-First, create a new directory for your project and install the required dependencies:
+First, create a new directory for your project and install the required dependencies:\\
 
-```bash
-
+```python
 python -m pip install fastapi uvicorn httpx python-dotenv
 ```
 
