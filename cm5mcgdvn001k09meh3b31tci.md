@@ -5,7 +5,7 @@ cuid: cm5mcgdvn001k09meh3b31tci
 slug: building-a-contact-form-backend-with-fastapi-and-discord-integration
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736246678031/bce191aa-19fd-4927-989b-77f6026ed288.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1736246680699/7b84e0fa-d5ea-4877-833b-c703ec17c71b.webp
-tags: python, fastapi
+tags: javascript, python, fastapi
 
 ---
 
