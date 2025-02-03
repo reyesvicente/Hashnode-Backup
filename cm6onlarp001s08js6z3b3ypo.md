@@ -64,8 +64,18 @@ I'm a huge ADTR fan, and I often find myself wanting to learn or cover their son
     <script>
         const songs = [
             "Intro", "Heartless", "Your Way With Words Is Through Silence", "A Second Glance",
-            // ... (rest of the song list) ...
-            "Degenerates", "Last Chance to Dance (Bad Friend)"
+            "If Looks Could Kill", "The Danger in Starting a Fire", "Show 'Em the Ropes",
+            "You Should've Killed Me When You Had the Chance", "Point of No Return", "Somewhere in Neverland",
+            "Came Back Haunted", "The Downfall of Us All", "My Life for Hire", "The Danger in Starting a Fire",
+            "A Shot in the Dark", "Start the Fire", "Mr. Highway's Thinking About the End", "Have Faith in Me",
+            "Welcome to the Family", "Homesick", "Runnin' for Cover", "The Last Song", "Sticks & Bricks",
+            "All I Want", "It's Complicated", "This Is the House That Doubt Built", "2nd Sucks",
+            "Better Off This Way", "City of Ocala", "Right Back at It Again", "Sometimes You're the Hammer, Sometimes You're the Nail",
+            "Dead & Buried", "The Document Speaks for Itself", "Rescue Me", "I Remember", "Violence (Enough Is Enough)",
+            "Life Lessons Learned the Hard Way", "Bad Vibrations", "Paranoia", "Naivety", "Bullfight",
+            "The Reaping", "Just Keep Breathing", "We Got This", "Same Book but Never the Same Page",
+            "Turn Off the Radio", "Brick Wall", "Mindreader", "Resentment", "Bloodsucker",
+            "Only Money", "Degenerates", "Last Chance to Dance (Bad Friend)"
         ];
 
         function pickSong() {
