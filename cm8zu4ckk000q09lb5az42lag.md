@@ -4,6 +4,7 @@ datePublished: Wed Apr 02 2025 11:19:36 GMT+0000 (Coordinated Universal Time)
 cuid: cm8zu4ckk000q09lb5az42lag
 slug: embracing-the-future-how-technology-is-shaping-our-lives
 canonical: https://forem.com/highcenburg/embracing-the-future-how-technology-is-shaping-our-lives-3gbd
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743592809211/0e1228dc-4cb7-4b25-81ca-ab19d5b5d748.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743592759616/dfe904b4-7031-4ebe-92a9-9b079c17b4f1.jpeg
 tags: technology, future
 
