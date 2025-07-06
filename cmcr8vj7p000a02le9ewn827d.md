@@ -112,3 +112,5 @@ The application is structured around a main `Metronome` class that inherits from
 Building this metronome was a great exercise in combining audio processing with GUI development in Python. The project demonstrates how powerful Python can be for creating practical, real-world applications with relatively little code.
 
 Would you like me to dive deeper into any particular aspect of the implementation or explain how to extend the functionality further?
+
+Code: [https://github.com/reyesvicente/offline-metronome](https://github.com/reyesvicente/offline-metronome)
