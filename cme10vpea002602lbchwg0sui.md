@@ -9,40 +9,37 @@ tags: music, intervals
 
 ---
 
-Photo by [Dorcas Knol](https://unsplash.com/@dk05?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-guitar-qYzE-0ne5Oo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-
-## 🎵 What Are Intervals?
+## **🎵 What Are Intervals?**
 
 An **interval** is the **distance between two notes**.
 
-Example:
+### **🎯 Example:**
 
-* From **C to E** is a **major 3rd**.
+* C to E → **Major 3rd**
     
-* From **E to G** is a **minor 3rd**.
+* E to G → **Minor 3rd**
     
 
 Each interval has a **sound** and a **shape** on the guitar.
 
 ---
 
-## 🧠 Know These First (Music Theory Basics)
+## **🧠 Music Theory Basics (Know These First)**
 
-* **1 semitone = 1 fret**
+* `1 semitone = 1 fret`
     
-* **Whole step = 2 frets**
+* `1 whole step = 2 frets`
     
-* The **musical alphabet**: A B C D E F G
+* Musical alphabet: `A B C D E F G`
     
-* Enharmonic notes: C# = Db, D# = Eb, etc.
+* Enharmonic notes: `C# = Db`, `D# = Eb`, etc.
     
-* **Major scale formula**: W W H W W W H  
-    (W = whole step, H = half step)
+* Major scale formula: `W W H W W W H` *(W = whole step, H = half step)*
     
 
 ---
 
-## 📊 Common Intervals (You Should Memorize)
+## **📊 Common Intervals to Memorize**
 
 | Interval Name | Semitones | Example (C as root) | Sound |
 | --- | --- | --- | --- |
@@ -62,63 +59,65 @@ Each interval has a **sound** and a **shape** on the guitar.
 
 ---
 
-## 🎸 Interval Shapes on Guitar (E & A Strings)
+## **🎸 Interval Shapes on Guitar (E & A Strings)**
 
-Let’s say you’re starting on the **6th string (E)** or **5th string (A)**:
+Assume you're starting from the **6th string (E)** or **5th string (A)**:
 
-* **Root + Major 2nd** = 2 frets forward, same string
+* **Root + Major 2nd** → 2 frets forward, same string
     
-* **Root + Major 3rd** = 1 string down, 1 fret back (diagonal shape)
+* **Root + Major 3rd** → 1 string down, 1 fret back *(diagonal)*
     
-* **Root + Perfect 5th** = 1 string down, 2 frets forward (power chord!)
+* **Root + Perfect 5th** → 1 string down, 2 frets forward *(power chord)*
     
-* **Root + Octave** = 2 strings down, 2 frets forward
+* **Root + Octave** → 2 strings down, 2 frets forward
     
 
-We can make a **diagram** if needed for visualization.
-
----
-
-## 🧠 How to Practice Intervals (Daily Routine)
-
-1. **Learn them by shape (on one string):**
-    
-    * Pick a root note (e.g., G)
-        
-    * Play G → A (M2), G → B (M3), G → C (P4), etc.
-        
-    * Do this ascending and descending
-        
-2. **Sing them aloud**:
-    
-    * Play and sing the interval: “G → B… Major 3rd”
-        
-    * Helps with ear training
-        
-3. **Practice interval jumps within a scale**:
-    
-    * In C Major: C–D–E–F–G–A–B–C
-        
-    * Play C → E (M3), D → F (m3), E → G (m3), etc.
-        
-4. **Apply it to chords**:
-    
-    * Major chord = Root + M3 + P5
-        
-    * Minor chord = Root + m3 + P5
-        
-5. **Improvise with intervals**:
-    
-    * Choose two intervals (e.g., M3 and P5)
-        
-    * Try creating a melody using only those
-        
+*(Want a fretboard diagram? I can make one.)*
 
 ---
 
-## 🎧 Bonus: Learn to Hear Them
+## **🧠 How to Practice Intervals (Daily Routine)**
 
-Use common songs to remember intervals:
+### **1\. Learn shapes on one string**
+
+* Pick a root (e.g., G)
+    
+* Play: G → A (M2), G → B (M3), G → C (P4), etc.
+    
+* Ascend and descend
+    
+
+### **2\. Sing them aloud**
+
+* Play and say: “G → B… Major 3rd”
+    
+* Builds ear training
+    
+
+### **3\. Practice within a scale**
+
+* C Major scale: C–D–E–F–G–A–B–C
+    
+* Try jumps: C → E (M3), D → F (m3), E → G (m3), etc.
+    
+
+### **4\. Apply to chords**
+
+* Major chord = Root + M3 + P5
+    
+* Minor chord = Root + m3 + P5
+    
+
+### **5\. Improvise with intervals**
+
+* Pick 2 intervals (e.g., M3 & P5)
+    
+* Create short melodic phrases
+    
+
+---
+
+## **🎧 Bonus: Learn to Hear Intervals with Songs**
 
 | Interval | Song (Ascending) |
 | --- | --- |
@@ -127,66 +126,47 @@ Use common songs to remember intervals:
 | Minor 3rd | *Greensleeves* |
 | Major 3rd | *When the Saints Go Marching In* |
 | Perfect 4th | *Here Comes the Bride* |
-| Tritone | *Simpsons* theme |
+| Tritone | *The Simpsons* theme |
 | Perfect 5th | *Star Wars* theme |
 | Octave | *Somewhere Over the Rainbow* |
 
-### Isn't C to E a major 4th? Counting the frets it says 4
+---
 
-Great observation — but let me clear this up:
+## **🧐 “Isn’t C to E a Major 4th?”**
 
-### ❓ Is C to E a **major 4th**?
+**Nope. It’s a *Major 3rd***. Let’s break it down:
 
-**Nope. C to E is a *Major 3rd***, not a major 4th.
+### **✅ Why?**
+
+In music theory, intervals are based on **letter names**, not just fret count.
+
+### **C to E:**
+
+* C → D → E = **3 letter steps** → It’s a **3rd**
+    
+* Count semitones:
+    
+    * C → C# → D → D# → E = **4 semitones**
+        
+
+**→ 4 semitones = Major 3rd**
 
 ---
 
-### ✅ Here's why:
+## **🤯 Why Not Go by Frets Only?**
 
-In **music theory**, intervals are **counted by letter names**, not just fret numbers.
+Fret count gives you **semitones**, not the **interval class**.
 
-#### Example:
-
-From **C to E**:
-
-* C → D → E = 1 → 2 → 3 (3 letter steps)
+* C to E = 4 semitones = **Major 3rd**
     
-* So it's a **third** (not a fourth).
+* C to F = 5 semitones = **Perfect 4th**
     
-* Now we count the **semitones**:
-    
-    * C → C# (1)
-        
-    * C# → D (2)
-        
-    * D → D# (3)
-        
-    * D# → E (4)  
-        → **4 semitones = Major 3rd**
-        
+
+> Even though both are only 1 fret apart, they’re **different intervals**.
 
 ---
 
-### 🤯 Why not go by frets only?
-
-Because fret numbers alone **don’t tell you the interval type by name**, just the distance in semitones.
-
-For example:
-
-* 5 semitones = **Perfect 4th** (like C → F)
-    
-* 4 semitones = **Major 3rd** (like C → E)
-    
-* But both are 4 or 5 frets away — and that doesn’t define the **interval class** (2nd, 3rd, 4th, etc.)
-    
-
----
-
-### 📏 Visual: C Major Scale
-
-```plaintext
-mathematicaCopyEditC - D - E - F - G - A - B - C
-```
+## **📏 Visual: C Major Scale Reference**
 
 | Note | Distance from C | Interval | Semitones |
 | --- | --- | --- | --- |
@@ -201,14 +181,8 @@ mathematicaCopyEditC - D - E - F - G - A - B - C
 
 ---
 
-### 🎸 So on the fretboard...
+## **🎸 On the Fretboard**
 
-* C (8th fret on 6th string)
+* C = 8th fret on 6th string
     
-* E is 4 frets up = 12th fret
-    
-* That’s 4 semitones = **Major 3rd**
-    
-
-✔ **Semitones define the *quality*** (major, minor, perfect, etc.)  
-✔ **Letter names define the *number*** (2nd, 3rd, 4th...)
+* E = 12th fret → 4 frets higher = **4 semitones = Major 3rd**
