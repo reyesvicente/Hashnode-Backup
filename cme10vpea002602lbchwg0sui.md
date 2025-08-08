@@ -72,8 +72,6 @@ Assume you're starting from the **6th string (E)** or **5th string (A)**:
 * **Root + Octave** → 2 strings down, 2 frets forward
     
 
-*(Want a fretboard diagram? I can make one.)*
-
 ---
 
 ## **🧠 How to Practice Intervals (Daily Routine)**
@@ -186,3 +184,9 @@ Fret count gives you **semitones**, not the **interval class**.
 * C = 8th fret on 6th string
     
 * E = 12th fret → 4 frets higher = **4 semitones = Major 3rd**
+    
+
+## ✅ Summary
+
+✔ **Semitones define the *quality*** (major, minor, perfect)  
+✔ **Letter names define the *number*** (2nd, 3rd, 4th, etc.)
