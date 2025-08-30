@@ -9,7 +9,7 @@ tags: python, django
 
 ---
 
-A few hours ago, I was asked by a senior Django developer what the difference of OneToOneField, ForeignKey and ManyToManyField. I believe I gave a pretty good explanation about it so here I am writing about it for you.
+A few hours ago, I was asked by a senior Django developer what the difference of **OneToOneField**, **ForeignKey** and **ManyToManyField**. I believe I gave a pretty good explanation about it so here I am writing about it for you.
 
 When working with **Django models**, relationships between tables are essential to structure your data properly. Django provides three main types of relationships: **OneToOneField**, **ForeignKey**, and **ManyToManyField**. Knowing when and how to use them is key to building scalable and maintainable applications.
 
