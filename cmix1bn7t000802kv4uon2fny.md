@@ -1,7 +1,7 @@
 ---
 title: "Flatten a Nested List"
 seoTitle: "Flatten a Nested List"
-seoDescription: "I know I've been a bit quiet lately. I actually came down with a pretty bad flu last week, which completely knocked me out. 🤒 "
+seoDescription: "I know I've been a bit quiet lately. I actually came down with a pretty bad flu last week, which completely knocked me out. 🤒"
 datePublished: Mon Dec 08 2025 10:54:58 GMT+0000 (Coordinated Universal Time)
 cuid: cmix1bn7t000802kv4uon2fny
 slug: flatten-a-nested-list
