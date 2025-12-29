@@ -1,8 +1,8 @@
 ---
-title: "Factorial"
+title: "Problem 7: Factorial"
 datePublished: Mon Dec 29 2025 07:26:13 GMT+0000 (Coordinated Universal Time)
 cuid: cmjqu42fe000602l7dy6vewfw
-slug: factorial
+slug: problem-7-factorial
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766993159445/6ddc4279-caab-4059-bc06-4418a606db3a.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766993154731/1440429b-502c-494e-bcc5-9990eb96fa8f.png
 tags: python, learning, beginners
