@@ -1,8 +1,8 @@
 ---
-title: "Mastering FizzBuzz in Python: A Step-by-Step Guide"
+title: "Problem 3: Mastering FizzBuzz in Python: A Step-by-Step Guide"
 datePublished: Mon Nov 24 2025 02:13:09 GMT+0000 (Coordinated Universal Time)
 cuid: cmiciin82000102jv02x71onc
-slug: mastering-fizzbuzz-in-python-a-step-by-step-guide
+slug: problem-3-mastering-fizzbuzz-in-python-a-step-by-step-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1763950289479/7072447c-185d-4e75-a4dc-da6a276e2cae.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1763950296806/4bf32c1e-6926-4ee0-8207-25bbf29406a5.png
 tags: python, learning, beginners
