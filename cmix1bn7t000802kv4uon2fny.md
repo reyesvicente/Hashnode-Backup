@@ -1,5 +1,5 @@
 ---
-title: "Flatten a Nested List"
+title: "Problem 4: Flatten a Nested List"
 seoTitle: "Flatten a Nested List"
 seoDescription: "I know I've been a bit quiet lately. I actually came down with a pretty bad flu last week, which completely knocked me out. 🤒"
 datePublished: Mon Dec 08 2025 10:54:58 GMT+0000 (Coordinated Universal Time)
