@@ -1,8 +1,8 @@
 ---
-title: "Sum of Digits: A Beginner's Guide to String Iteration in Python"
+title: "Problem 1: Sum of Digits: A Beginner's Guide to String Iteration in Python"
 datePublished: Mon Nov 10 2025 04:40:08 GMT+0000 (Coordinated Universal Time)
 cuid: cmhsnlr43000002l2hppze8ti
-slug: sum-of-digits-a-beginners-guide-to-string-iteration-in-python
+slug: problem-1-sum-of-digits-a-beginners-guide-to-string-iteration-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762749566534/d58c9eba-f0d3-4220-84e3-a3b89887a365.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1762749573625/29092e89-a2ae-40ed-b0d0-8822d6c5ac2a.png
 tags: python, learning, beginners
