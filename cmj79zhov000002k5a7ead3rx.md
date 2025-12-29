@@ -1,8 +1,8 @@
 ---
-title: "Palindrome Checker"
+title: "Problem 5: Palindrome Checker"
 datePublished: Mon Dec 15 2025 14:55:10 GMT+0000 (Coordinated Universal Time)
 cuid: cmj79zhov000002k5a7ead3rx
-slug: palindrome-checker
+slug: problem-5-palindrome-checker
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765810478748/4796bd5e-07d2-40f7-9bc0-47f2283e3593.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765810485707/ba43e3e4-e486-41cf-b626-25ca503739ef.png
 tags: python, learning, begginers
