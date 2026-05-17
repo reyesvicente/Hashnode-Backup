@@ -1,6 +1,6 @@
 ---
 title: "Using the update_attribute() API using the rails console"
-datePublished: Mon Aug 03 2020 20:47:10 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-08-03T20:47:10.000Z
 cuid: ckgos4gmo05cdo9s15y1fdhfs
 slug: using-the-updateattribute-api-using-the-rails-console-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682770691873/d7e4366c-b2cb-4297-9658-98314cb32ef4.png
