@@ -1,6 +1,6 @@
 ---
 title: "Classes and Functions"
-datePublished: Mon Apr 22 2019 16:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-04-22T16:00:00.000Z
 cuid: cks3djset0vfyhqs1b14q84n0
 slug: classes-and-functions
 canonical: https://highcenburg.tech.blog/2019/04/23/classes-and-functions/
