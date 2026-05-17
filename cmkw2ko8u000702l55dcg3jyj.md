@@ -1,6 +1,6 @@
 ---
 title: "Problem 11: Count Character Frequency"
-datePublished: Tue Jan 27 2026 04:01:38 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-27T04:01:38.238Z
 cuid: cmkw2ko8u000702l55dcg3jyj
 slug: problem-11-count-character-frequency
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769486479188/097434a3-3f22-4c9e-b927-259e65aad21e.png
