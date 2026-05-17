@@ -1,6 +1,6 @@
 ---
 title: "Showing the data we created on the frontend"
-datePublished: Tue Oct 27 2020 09:08:30 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-10-27T09:08:30.000Z
 cuid: ckgrxdlr601p1z9s12b9lfqk7
 slug: showing-the-data-we-created-on-the-frontend
 canonical: https://learnetto.com/tutorials/part-viii-showing-the-data-we-created-on-the-frontend
