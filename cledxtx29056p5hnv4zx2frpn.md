@@ -1,6 +1,6 @@
 ---
 title: "Recover background audio with librosa and saving it with soundfile"
-datePublished: Mon Feb 20 2023 23:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-02-20T23:00:00.000Z
 cuid: cledxtx29056p5hnv4zx2frpn
 slug: recover-background-audio-with-librosa-and-saving-it-with-soundfile
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676965279223/c29ffdb0-2f44-4269-95d4-8a26ffa853ae.png
