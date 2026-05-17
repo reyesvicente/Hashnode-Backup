@@ -1,6 +1,6 @@
 ---
 title: "6 most common a11y issues and how to solve them"
-datePublished: Sun Dec 06 2020 11:43:51 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-12-06T11:43:51.284Z
 cuid: ckid25bc400lp6zs12ih8ar11
 slug: 6-most-common-a11y-issues-and-how-to-solve-them
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1609336930527/VSi6OCd_c.jpeg
