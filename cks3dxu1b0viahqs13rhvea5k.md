@@ -1,6 +1,6 @@
 ---
 title: "How does this keyword in JavaScript work?"
-datePublished: Mon Apr 15 2019 16:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-04-15T16:00:00.000Z
 cuid: cks3dxu1b0viahqs13rhvea5k
 slug: how-does-this-keyword-in-javascript-work
 canonical: https://highcenburg.tech.blog/2019/04/16/how-does-this-keyword-in-javascript-work/
