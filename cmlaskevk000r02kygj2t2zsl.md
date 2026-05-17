@@ -1,6 +1,6 @@
 ---
 title: "Boosting LCP: A Guide to fetchpriority="high""
-datePublished: Fri Feb 06 2026 11:18:02 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-02-06T11:18:02.576Z
 cuid: cmlaskevk000r02kygj2t2zsl
 slug: boosting-lcp-a-guide-to-fetchpriorityhigh
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1770376630427/5f0c99d4-356c-4fca-879f-0949398f8e6e.png
