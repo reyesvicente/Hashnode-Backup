@@ -1,6 +1,6 @@
 ---
 title: "Visualizing music with just a few lines of code"
-datePublished: Mon Feb 06 2023 20:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-02-06T20:00:00.000Z
 cuid: cleb6jjuw006moknv58uwagxz
 slug: visualizing-music-with-just-a-few-lines-of-code
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676798509578/0fe79294-c396-417d-9ee6-326f740df04d.png
