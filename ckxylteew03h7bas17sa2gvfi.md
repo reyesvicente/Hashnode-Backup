@@ -1,6 +1,6 @@
 ---
 title: "Setting up my macOs development environment for 2022"
-datePublished: Mon Jan 03 2022 11:33:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-01-03T11:33:12.570Z
 cuid: ckxylteew03h7bas17sa2gvfi
 slug: setting-up-my-macos-development-environment-for-2022
 cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/LJ9KY8pIH3E/upload/v1641209453639/JC21HezFi.jpeg
