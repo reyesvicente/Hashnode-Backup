@@ -1,6 +1,6 @@
 ---
 title: "Six Django template tags not often used in tutorials"
-datePublished: Sun Oct 06 2019 04:24:53 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-10-06T04:24:53.000Z
 cuid: ckgos61ka05cso9s12fgfcd66
 slug: six-django-template-tags-not-often-used-in-tutorials-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682770781436/18d70f8e-a329-4d2c-b10b-cacd1748af85.jpeg
