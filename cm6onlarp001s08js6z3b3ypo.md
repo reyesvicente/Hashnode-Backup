@@ -1,6 +1,6 @@
 ---
 title: "Stuck in a Rut? Let This Random A Day to Remember Song Picker Spark Your Creativity!"
-datePublished: Mon Feb 03 2025 06:11:57 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-02-03T06:11:57.253Z
 cuid: cm6onlarp001s08js6z3b3ypo
 slug: stuck-in-a-rut-let-this-random-a-day-to-remember-song-picker-spark-your-creativity
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738563088925/ecf4b33f-5db3-4f9f-bc18-26dbd6e04b79.webp
