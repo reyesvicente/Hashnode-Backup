@@ -1,6 +1,6 @@
 ---
 title: "Suppressing audio with Python"
-datePublished: Mon Feb 27 2023 09:02:56 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-02-27T09:02:56.415Z
 cuid: clemldxgf000c08mj8pon2gep
 slug: suppressing-audio-with-python
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682766435447/07c5cacf-66e0-44c2-8a61-e41e0dc6f0f2.jpeg
