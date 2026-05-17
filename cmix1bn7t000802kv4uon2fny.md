@@ -2,7 +2,7 @@
 title: "Problem 4: Flatten a Nested List"
 seoTitle: "Flatten a Nested List"
 seoDescription: "I know I've been a bit quiet lately. I actually came down with a pretty bad flu last week, which completely knocked me out. 🤒"
-datePublished: Mon Dec 08 2025 10:54:58 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-12-08T10:54:58.889Z
 cuid: cmix1bn7t000802kv4uon2fny
 slug: flatten-a-nested-list
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765191262122/1ca1b35a-b63d-4150-9fd3-f16eb9a87f96.png
