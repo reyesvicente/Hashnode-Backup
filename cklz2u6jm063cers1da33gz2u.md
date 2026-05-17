@@ -1,6 +1,6 @@
 ---
 title: "How I'm preparing for a new job"
-datePublished: Sun Mar 07 2021 11:33:14 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-03-07T11:33:14.464Z
 cuid: cklz2u6jm063cers1da33gz2u
 slug: how-im-preparing-for-a-new-job
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1615116702262/j_1yKlzEA.jpeg
