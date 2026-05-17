@@ -1,6 +1,6 @@
 ---
 title: "Problem 9: Most Frequent Element"
-datePublished: Mon Jan 12 2026 08:33:39 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-12T08:33:39.135Z
 cuid: cmkawopj3000202kyh38r2r3k
 slug: problem-9-most-frequent-element
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768206803167/4f79b7b9-1be3-4a37-9f82-b4a8379a0aea.png
