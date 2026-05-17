@@ -1,6 +1,6 @@
 ---
 title: "Creating the data and fine-tuning the templates"
-datePublished: Tue Oct 27 2020 08:49:07 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-10-27T08:49:07.000Z
 cuid: ckgrxca2f01olz9s1f88pbkgd
 slug: creating-the-data-and-fine-tuning-the-templates
 canonical: https://learnetto.com/tutorials/part-vii-creating-the-data-and-fine-tuning-the-templates
