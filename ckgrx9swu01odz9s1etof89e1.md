@@ -1,6 +1,6 @@
 ---
 title: "Testing our app using Unittests"
-datePublished: Tue Oct 27 2020 08:41:26 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-10-27T08:41:26.000Z
 cuid: ckgrx9swu01odz9s1etof89e1
 slug: testing-our-app-using-unittests
 canonical: https://learnetto.com/tutorials/part-vi-testing-our-app-using-unittests
