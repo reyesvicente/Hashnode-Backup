@@ -1,6 +1,6 @@
 ---
 title: "Problem 5: Palindrome Checker"
-datePublished: Mon Dec 15 2025 14:55:10 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-12-15T14:55:10.159Z
 cuid: cmj79zhov000002k5a7ead3rx
 slug: problem-5-palindrome-checker
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765810478748/4796bd5e-07d2-40f7-9bc0-47f2283e3593.png
