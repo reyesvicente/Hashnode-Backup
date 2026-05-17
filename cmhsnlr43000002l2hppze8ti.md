@@ -1,6 +1,6 @@
 ---
 title: "Problem 1: Sum of Digits: A Beginner's Guide to String Iteration in Python"
-datePublished: Mon Nov 10 2025 04:40:08 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-11-10T04:40:08.835Z
 cuid: cmhsnlr43000002l2hppze8ti
 slug: problem-1-sum-of-digits-a-beginners-guide-to-string-iteration-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762749566534/d58c9eba-f0d3-4220-84e3-a3b89887a365.png
