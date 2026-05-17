@@ -1,6 +1,6 @@
 ---
 title: "How to Validate Rectangular Images in Django Using Python"
-datePublished: Tue Dec 17 2024 10:04:25 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-12-17T10:04:25.118Z
 cuid: cm4sard0e000909mw8h6a4x4m
 slug: how-to-validate-rectangular-images-in-django-using-python
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734429833724/dfb71fdd-31dc-48e1-8e30-5172678b8951.webp
