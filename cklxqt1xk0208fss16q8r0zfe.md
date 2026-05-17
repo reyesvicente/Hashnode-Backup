@@ -1,6 +1,6 @@
 ---
 title: "Designing Better Models in Django"
-datePublished: Sat Mar 06 2021 13:08:40 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-03-06T13:08:40.092Z
 cuid: cklxqt1xk0208fss16q8r0zfe
 slug: designing-better-models-in-django
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1615036041686/OlE2m81xB.jpeg
