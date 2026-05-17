@@ -1,6 +1,6 @@
 ---
 title: "List, Dictionary & Tuples"
-datePublished: Mon Apr 22 2019 16:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-04-22T16:00:00.000Z
 cuid: cks3do0jq0vkfees15kz77i4q
 slug: list-dictionary-and-tuples
 canonical: https://highcenburg.tech.blog/2019/04/23/list-dictionary-tuples/
