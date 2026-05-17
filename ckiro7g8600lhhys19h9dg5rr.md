@@ -1,6 +1,6 @@
 ---
 title: "DigitalOcean Hackathon Submission: Portfolio"
-datePublished: Wed Dec 16 2020 17:03:30 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-12-16T17:03:30.000Z
 cuid: ckiro7g8600lhhys19h9dg5rr
 slug: digitalocean-hackathon-submission-portfolio
 canonical: https://dev.to/highcenburg/do-hackathon-submission-portfolio-46h1
