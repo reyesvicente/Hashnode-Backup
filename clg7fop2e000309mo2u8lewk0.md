@@ -1,6 +1,6 @@
 ---
 title: "Getting started with Django Rest Framework"
-datePublished: Sat Apr 08 2023 03:46:13 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-04-08T03:46:13.094Z
 cuid: clg7fop2e000309mo2u8lewk0
 slug: getting-started-with-django-rest-framework
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680869288511/f26f8738-de92-49f8-8945-b0d436213a55.jpeg
