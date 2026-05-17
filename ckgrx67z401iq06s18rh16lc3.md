@@ -1,6 +1,6 @@
 ---
 title: "Creating the models.py, views.py, urls.py, admin.py & the superuser"
-datePublished: Tue Oct 27 2020 08:35:20 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-10-27T08:35:20.000Z
 cuid: ckgrx67z401iq06s18rh16lc3
 slug: creating-the-modelspy-viewspy-urlspy-adminpy-and-the-superuser
 canonical: https://learnetto.com/tutorials/part-v-creating-the-models-py-views-py-urls-py-admin-py-the-superuser
