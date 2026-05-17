@@ -1,6 +1,6 @@
 ---
 title: "Understanding the Distinction: PUT vs. PATCH in API Design"
-datePublished: Tue Nov 14 2023 16:00:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-11-14T16:00:12.705Z
 cuid: cloyis0wx00020ajh1jwjdwm7
 slug: understanding-the-distinction-put-vs-patch-in-api-design
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ehyV_XOZ4iA/upload/dba91c51001cd4c15a2aa7a95b00a08f.jpeg
