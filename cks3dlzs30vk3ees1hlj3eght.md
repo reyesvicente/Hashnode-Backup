@@ -1,6 +1,6 @@
 ---
 title: "Python If Else and Code Branching"
-datePublished: Mon Apr 22 2019 16:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-04-22T16:00:00.000Z
 cuid: cks3dlzs30vk3ees1hlj3eght
 slug: python-if-else-and-code-branching
 canonical: https://highcenburg.tech.blog/2019/04/23/python-if-else-and-code-branching/
