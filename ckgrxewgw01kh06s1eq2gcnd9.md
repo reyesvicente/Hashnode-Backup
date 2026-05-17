@@ -1,6 +1,6 @@
 ---
 title: "How to deploy your Django app to Heroku"
-datePublished: Tue Oct 27 2020 09:15:43 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-10-27T09:15:43.000Z
 cuid: ckgrxewgw01kh06s1eq2gcnd9
 slug: how-to-deploy-your-django-app-to-heroku
 canonical: https://learnetto.com/tutorials/part-ix-how-to-deploy-your-django-app-to-heroku-for-free
