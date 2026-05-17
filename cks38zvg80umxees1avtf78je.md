@@ -1,6 +1,6 @@
 ---
 title: "Hacker Rank Challenge: Utopian Tree"
-datePublished: Wed Apr 24 2019 10:40:02 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-04-24T10:40:02.000Z
 cuid: cks38zvg80umxees1avtf78je
 slug: hacker-rank-challenge-utopian-tree
 canonical: https://highcenburg.tech.blog/2019/04/24/hacker-rank-challenge-utopian-tree/
