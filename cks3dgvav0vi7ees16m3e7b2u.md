@@ -1,6 +1,6 @@
 ---
 title: "The process flow of Model-Template-View design pattern in Django"
-datePublished: Tue Apr 23 2019 16:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-04-23T16:00:00.000Z
 cuid: cks3dgvav0vi7ees16m3e7b2u
 slug: the-process-flow-of-model-template-view-design-pattern-in-django
 canonical: https://highcenburg.tech.blog/2019/04/24/the-process-flow-of-model-template-view-design-pattern-in-django/
