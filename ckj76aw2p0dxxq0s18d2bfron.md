@@ -1,6 +1,6 @@
 ---
 title: "The Art of Music Production Week 2: Writing and Recording with Identity, Vision, and Intention"
-datePublished: Sun Dec 27 2020 13:33:15 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-12-27T13:33:15.295Z
 cuid: ckj76aw2p0dxxq0s18d2bfron
 slug: the-art-of-music-production-week-2-writing-and-recording-with-identity-vision-and-intention
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1609075974459/npc61BGYz.jpeg
