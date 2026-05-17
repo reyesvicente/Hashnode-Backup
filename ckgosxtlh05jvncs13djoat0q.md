@@ -1,6 +1,6 @@
 ---
 title: "4 Common Data Structures"
-datePublished: Mon Jul 29 2019 17:20:38 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-07-29T17:20:38.000Z
 cuid: ckgosxtlh05jvncs13djoat0q
 slug: 4-common-data-structures
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682770849695/23732a25-47d0-4a0b-a02c-79d711686554.jpeg
