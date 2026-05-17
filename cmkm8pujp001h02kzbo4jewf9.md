@@ -1,6 +1,6 @@
 ---
 title: "Problem 10: Duplicate Removal"
-datePublished: Tue Jan 20 2026 06:55:55 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-20T06:55:55.621Z
 cuid: cmkm8pujp001h02kzbo4jewf9
 slug: problem-10-duplicate-removal
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768892133388/353c478f-09a4-4f0a-9883-e55b5aecb7a4.png
