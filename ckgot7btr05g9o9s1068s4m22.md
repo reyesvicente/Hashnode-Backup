@@ -1,6 +1,6 @@
 ---
 title: "Django Startup Sequence"
-datePublished: Mon Apr 22 2019 15:47:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-04-22T15:47:12.000Z
 cuid: ckgot7btr05g9o9s1068s4m22
 slug: django-startup-sequence
 canonical: https://highcenburg.tech.blog
