@@ -1,6 +1,6 @@
 ---
 title: "Advantages and Disadvantages of Compiled Languages"
-datePublished: Sat Apr 20 2019 16:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-04-20T16:00:00.000Z
 cuid: cks3dqljn0vhfhqs1hoeb4268
 slug: advantages-and-disadvantages-of-compiled-languages
 canonical: https://highcenburg.tech.blog/2019/04/21/advantages-and-disadvantages-of-compiled-languages/
