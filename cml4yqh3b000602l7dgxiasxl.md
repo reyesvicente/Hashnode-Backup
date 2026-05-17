@@ -1,6 +1,6 @@
 ---
 title: "Problem 12: Find Pairs with Target Sum"
-datePublished: Mon Feb 02 2026 09:24:06 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-02-02T09:24:06.023Z
 cuid: cml4yqh3b000602l7dgxiasxl
 slug: problem-12-find-pairs-with-target-sum
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1770024181771/477b6693-9e23-4e2a-a2a5-07397f8b850a.png
