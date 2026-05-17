@@ -1,6 +1,6 @@
 ---
 title: "The Most Critical Detail A Freelancer Should Not Miss"
-datePublished: Thu Jan 10 2019 17:21:54 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-01-10T17:21:54.000Z
 cuid: ckgot3vfv05fto9s1eok13szj
 slug: the-most-critical-detail-a-freelancer-should-not-miss
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1603611875502/nFWhceT0g.png
