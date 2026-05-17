@@ -1,6 +1,6 @@
 ---
 title: "Getting the tempo of a song using python"
-datePublished: Mon Jan 30 2023 20:01:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-01-30T20:01:00.000Z
 cuid: cleb6jmq6006noknv3yoo39lj
 slug: getting-the-tempo-of-a-song-using-python
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682766687616/aa7a55a0-1f6c-4f52-9fe4-e11e2192ee29.jpeg
