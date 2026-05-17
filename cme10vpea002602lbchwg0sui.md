@@ -1,6 +1,6 @@
 ---
 title: "Learning intervals on the guitar"
-datePublished: Thu Aug 07 2025 06:35:08 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-07T06:35:08.243Z
 cuid: cme10vpea002602lbchwg0sui
 slug: learning-intervals-on-the-guitar
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754548449621/65ee660f-6d61-4967-a55e-9096e94ecc67.jpeg
