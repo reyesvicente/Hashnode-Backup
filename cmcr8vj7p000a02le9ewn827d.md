@@ -1,6 +1,6 @@
 ---
 title: "Building a Python Metronome with PyQt6: A Guide to Audio and GUI Development"
-datePublished: Sun Jul 06 2025 05:41:33 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-07-06T05:41:33.061Z
 cuid: cmcr8vj7p000a02le9ewn827d
 slug: building-a-python-metronome-with-pyqt6-a-guide-to-audio-and-gui-development
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Q7OGvV4EJnM/upload/8a59afc85c0f3dbf14268b40377d9036.jpeg
