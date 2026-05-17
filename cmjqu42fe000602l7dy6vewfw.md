@@ -1,6 +1,6 @@
 ---
 title: "Problem 7: Factorial"
-datePublished: Mon Dec 29 2025 07:26:13 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-12-29T07:26:13.322Z
 cuid: cmjqu42fe000602l7dy6vewfw
 slug: problem-7-factorial
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766993159445/6ddc4279-caab-4059-bc06-4418a606db3a.png
