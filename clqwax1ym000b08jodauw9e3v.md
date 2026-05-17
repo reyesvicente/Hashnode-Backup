@@ -1,6 +1,6 @@
 ---
 title: "Creating a URL Shortener with FastAPI, ReactJs and TailwindCSS"
-datePublished: Tue Jan 02 2024 12:04:02 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-01-02T12:04:02.734Z
 cuid: clqwax1ym000b08jodauw9e3v
 slug: creating-a-url-shortener-with-fastapi-reactjs-and-tailwindcss
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704196998398/92fbdb4d-692d-47f4-8fba-0f067bae873b.jpeg
