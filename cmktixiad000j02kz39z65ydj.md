@@ -1,6 +1,6 @@
 ---
 title: "How I Fixed a Critical Memory Leak in My Python Audio App"
-datePublished: Sun Jan 25 2026 09:16:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-25T09:16:12.373Z
 cuid: cmktixiad000j02kz39z65ydj
 slug: how-i-fixed-a-critical-memory-leak-in-my-python-audio-app
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769332159672/886b35eb-ea30-4c1d-8cb3-1401999cb350.png
