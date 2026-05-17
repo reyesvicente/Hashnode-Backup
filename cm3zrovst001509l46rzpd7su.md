@@ -1,6 +1,6 @@
 ---
 title: "Speech to Musical Notation with AssemblyAI"
-datePublished: Wed Nov 27 2024 10:53:03 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-11-27T10:53:03.869Z
 cuid: cm3zrovst001509l46rzpd7su
 slug: speech-to-musical-notation-with-assemblyai
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732704739630/4374b439-8c82-4f92-b1a4-c8c470a56c22.jpeg
