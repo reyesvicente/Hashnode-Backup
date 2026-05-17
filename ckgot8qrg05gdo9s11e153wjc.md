@@ -1,6 +1,6 @@
 ---
 title: "Git for Amateurs"
-datePublished: Tue Jun 25 2019 07:22:21 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-06-25T07:22:21.000Z
 cuid: ckgot8qrg05gdo9s11e153wjc
 slug: git-for-amateurs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682771006049/c0e682c3-195c-488d-a514-8b2c3f69064e.jpeg
