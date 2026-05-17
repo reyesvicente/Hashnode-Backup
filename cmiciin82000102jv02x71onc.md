@@ -1,6 +1,6 @@
 ---
 title: "Problem 3: Mastering FizzBuzz in Python: A Step-by-Step Guide"
-datePublished: Mon Nov 24 2025 02:13:09 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-11-24T02:13:09.266Z
 cuid: cmiciin82000102jv02x71onc
 slug: problem-3-mastering-fizzbuzz-in-python-a-step-by-step-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1763950289479/7072447c-185d-4e75-a4dc-da6a276e2cae.png
