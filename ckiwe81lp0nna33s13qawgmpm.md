@@ -1,6 +1,6 @@
 ---
 title: "The Art of Music Production Week 1: Practice Peer-graded Assignment: Active Listening"
-datePublished: Sun Dec 20 2020 00:29:31 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-12-20T00:29:31.492Z
 cuid: ckiwe81lp0nna33s13qawgmpm
 slug: the-art-of-music-production-week-1-practice-peer-graded-assignment-active-listening
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1608424128545/TxTpBbrEo.jpeg
