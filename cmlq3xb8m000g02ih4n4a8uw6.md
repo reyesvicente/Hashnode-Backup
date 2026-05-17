@@ -1,6 +1,6 @@
 ---
 title: "To Headless or Not to Headless? A Shopify Expert’s Guide to the Pros and Cons"
-datePublished: Tue Feb 17 2026 04:32:32 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-02-17T04:32:32.806Z
 cuid: cmlq3xb8m000g02ih4n4a8uw6
 slug: to-headless-or-not-to-headless-a-shopify-experts-guide-to-the-pros-and-cons
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1771302711308/a32f8f9a-f8c5-4678-835a-a435e13f45ee.png
