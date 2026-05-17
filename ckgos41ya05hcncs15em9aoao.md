@@ -1,6 +1,6 @@
 ---
 title: "Creating a blog with Cookiecutter-Django & deploying it to Heroku: Introduction"
-datePublished: Sat Oct 24 2020 04:42:10 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-10-24T04:42:10.000Z
 cuid: ckgos41ya05hcncs15em9aoao
 slug: creating-a-blog-with-cookiecutter-django-and-deploying-it-to-heroku-introduction-1
 canonical: https://learnetto.com/tutorials/creating-a-blog-with-cookiecutter-django-deploying-it-to-heroku
