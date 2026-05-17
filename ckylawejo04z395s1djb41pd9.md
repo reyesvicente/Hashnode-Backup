@@ -1,6 +1,6 @@
 ---
 title: "Deploying OutlineVPN to Ubuntu 20.04"
-datePublished: Wed Jan 19 2022 08:46:18 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-01-19T08:46:18.985Z
 cuid: ckylawejo04z395s1djb41pd9
 slug: deploying-outlinevpn-to-ubuntu-2004
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1642581897199/HZOf-ixSCg.jpeg
