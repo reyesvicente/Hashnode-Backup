@@ -1,6 +1,6 @@
 ---
 title: "Understanding Django Relationships: OneToOneField vs ForeignKey vs ManyToManyField"
-datePublished: Sat Aug 30 2025 05:14:43 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-30T05:14:43.253Z
 cuid: cmext4vqt000302l1dz5a1j09
 slug: understanding-django-relationships-onetoonefield-vs-foreignkey-vs-manytomanyfield
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756530855958/5aeac29d-7587-4e05-a0ed-9d352b580672.png
