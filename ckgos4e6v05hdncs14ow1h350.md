@@ -1,6 +1,6 @@
 ---
 title: "Dev Side Project: Updating the UI & using 2 more API's for more data"
-datePublished: Fri Oct 23 2020 14:33:15 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-10-23T14:33:15.000Z
 cuid: ckgos4e6v05hdncs14ow1h350
 slug: dev-side-project-updating-the-ui-and-using-2-more-apis-for-more-data-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682770282033/626684a8-7619-4a7f-829d-c60bbd73bcb2.png
