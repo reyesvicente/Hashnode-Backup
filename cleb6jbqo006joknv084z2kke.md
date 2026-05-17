@@ -1,6 +1,6 @@
 ---
 title: "Separate vocals from a track using python"
-datePublished: Mon Feb 13 2023 23:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-02-13T23:00:00.000Z
 cuid: cleb6jbqo006joknv084z2kke
 slug: separate-vocals-from-a-track-using-python
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676798492166/d4672cf4-a6f9-4a82-8631-5ebf388061ab.gif
