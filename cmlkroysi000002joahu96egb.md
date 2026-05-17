@@ -1,6 +1,6 @@
 ---
 title: "Dev Log: Modernizing the Oatopia Shopify Experience"
-datePublished: Fri Feb 13 2026 10:51:17 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-02-13T10:51:17.154Z
 cuid: cmlkroysi000002joahu96egb
 slug: dev-log-modernizing-the-oatopia-shopify-experience
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1770960463730/2c4e845c-5826-4b7a-a760-7c3b168db45f.png
