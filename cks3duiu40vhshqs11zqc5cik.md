@@ -1,6 +1,6 @@
 ---
 title: "The difference of Arrays vs Objects in Javascript"
-datePublished: Sun Apr 14 2019 16:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-04-14T16:00:00.000Z
 cuid: cks3duiu40vhshqs11zqc5cik
 slug: the-difference-of-arrays-vs-objects-in-javascript
 canonical: https://highcenburg.tech.blog/2019/04/15/the-difference-of-arrays-vs-objects-in-javascript/
