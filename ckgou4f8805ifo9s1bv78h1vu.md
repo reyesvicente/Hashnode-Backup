@@ -1,6 +1,6 @@
 ---
 title: "Creating the blog project"
-datePublished: Sun Oct 25 2020 08:11:59 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-10-25T08:11:59.000Z
 cuid: ckgou4f8805ifo9s1bv78h1vu
 slug: creating-the-blog-project
 canonical: https://learnetto.com/tutorials/part-ii-creating-the-django-blog-project
