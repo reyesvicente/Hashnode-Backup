@@ -1,6 +1,6 @@
 ---
 title: "Embracing the Future: How Technology is Shaping Our Lives"
-datePublished: Wed Apr 02 2025 11:19:36 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-02T11:19:36.356Z
 cuid: cm8zu4ckk000q09lb5az42lag
 slug: embracing-the-future-how-technology-is-shaping-our-lives
 canonical: https://forem.com/highcenburg/embracing-the-future-how-technology-is-shaping-our-lives-3gbd
