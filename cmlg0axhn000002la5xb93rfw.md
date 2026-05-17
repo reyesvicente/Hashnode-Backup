@@ -1,6 +1,6 @@
 ---
 title: "Problem 13: Group Anagrams"
-datePublished: Tue Feb 10 2026 02:53:27 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-02-10T02:53:27.948Z
 cuid: cmlg0axhn000002la5xb93rfw
 slug: problem-13-group-anagrams
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1770691998031/e98d92f2-714e-4228-b7a3-6b87a6a7572f.png
