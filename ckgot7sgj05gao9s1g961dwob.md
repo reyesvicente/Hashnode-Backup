@@ -1,6 +1,6 @@
 ---
 title: "Django 2.2 Test Driven Development"
-datePublished: Tue May 07 2019 23:20:35 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-05-07T23:20:35.000Z
 cuid: ckgot7sgj05gao9s1g961dwob
 slug: django-22-test-driven-development
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682771057440/91fe905a-9e4d-4b00-9260-70ed5a900182.jpeg
