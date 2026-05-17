@@ -1,6 +1,6 @@
 ---
 title: "Roadmap for Learning JavaScript and Beyond in 2025"
-datePublished: Tue Jan 07 2025 07:49:05 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-01-07T07:49:05.603Z
 cuid: cm5m667yb000109ifbirx68vp
 slug: roadmap-for-learning-javascript-and-beyond-in-2025
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736236106636/757f07f8-921e-40ba-a9a7-935e031ab4bf.webp
