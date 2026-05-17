@@ -1,6 +1,6 @@
 ---
 title: "How to Down-Pitch A Song Using Python"
-datePublished: Wed Sep 25 2024 06:53:29 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-25T06:53:29.554Z
 cuid: cm1hie4ia000109l6h3bfdi4f
 slug: how-to-down-pitch-a-song-using-python
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727247177460/8f3559ff-199c-462d-8275-4576f9e32423.jpeg
