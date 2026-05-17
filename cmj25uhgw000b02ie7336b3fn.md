@@ -1,6 +1,6 @@
 ---
 title: "Brutal Efficiency: A Tech Breakdown of My Portfolio"
-datePublished: Fri Dec 12 2025 01:00:27 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-12-12T01:00:27.248Z
 cuid: cmj25uhgw000b02ie7336b3fn
 slug: brutal-efficiency-a-tech-breakdown-of-my-portfolio
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765421657652/6cb99bb6-1a35-4d93-9d99-e16bc7a2a3a1.png
