@@ -1,6 +1,6 @@
 ---
 title: "The Art of Music Production Week 1: Listening Like a Producer - Practice Quiz"
-datePublished: Mon Dec 14 2020 20:51:16 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-12-14T20:51:16.786Z
 cuid: ckip184ca01zzv7s1942j7ifc
 slug: the-art-of-music-production-week-1-listening-like-a-producer-practice-quiz
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607979062872/LqnVJbx_S.jpeg
