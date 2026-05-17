@@ -1,6 +1,6 @@
 ---
 title: "Creating the app for the blog"
-datePublished: Mon Oct 26 2020 07:51:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-10-26T07:51:12.000Z
 cuid: ckgrummbl010l06s1gh4s2u2k
 slug: creating-the-app-for-the-blog
 canonical: https://learnetto.com/tutorials/part-iii-creating-the-app-for-the-blog
