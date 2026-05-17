@@ -1,6 +1,6 @@
 ---
 title: "The Great Decoupling: Is Headless WordPress Right for Your Next Project?"
-datePublished: Tue Feb 17 2026 04:40:10 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-02-17T04:40:10.611Z
 cuid: cmlq474hf001k02ju7bha0vqd
 slug: the-great-decoupling-is-headless-wordpress-right-for-your-next-project
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1771303193900/183ef68a-002f-4892-af32-30310b0fdc86.png
