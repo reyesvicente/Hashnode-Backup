@@ -1,6 +1,6 @@
 ---
 title: "#IcenAsks: What's a decent algorithm for an online community forum news feed?"
-datePublished: Sun Feb 28 2021 06:21:53 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-02-28T06:21:53.893Z
 cuid: cklormtvk05k48us10uut8j04
 slug: icenasks-whats-a-decent-algorithm-for-an-online-community-forum-news-feed
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1614493039709/AhZcPTgtt.jpeg
