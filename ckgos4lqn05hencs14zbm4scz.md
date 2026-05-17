@@ -1,6 +1,6 @@
 ---
 title: "Developing my local COVID-19 side project"
-datePublished: Mon Apr 27 2020 02:57:43 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-04-27T02:57:43.000Z
 cuid: ckgos4lqn05hencs14zbm4scz
 slug: developing-my-local-covid-19-side-project-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682770347015/b80491cb-a7e4-46cc-a5be-092fae10ce58.jpeg
