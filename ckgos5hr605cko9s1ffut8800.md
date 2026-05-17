@@ -1,6 +1,6 @@
 ---
 title: "My Top 5 Django Resources"
-datePublished: Wed Jan 08 2020 00:54:17 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-01-08T00:54:17.000Z
 cuid: ckgos5hr605cko9s1ffut8800
 slug: my-top-5-django-resources-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682770410988/33181964-b391-4d05-8daa-d2d26b3ed36e.jpeg
