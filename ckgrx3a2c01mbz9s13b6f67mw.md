@@ -1,6 +1,6 @@
 ---
 title: "Model Architecture Planning"
-datePublished: Tue Oct 27 2020 08:24:14 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-10-27T08:24:14.000Z
 cuid: ckgrx3a2c01mbz9s13b6f67mw
 slug: model-architecture-planning
 canonical: https://learnetto.com/tutorials/part-iv-model-architecture-planning-4eeba952-8c05-40ba-b551-7aee5c37a269
