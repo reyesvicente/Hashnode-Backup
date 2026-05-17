@@ -1,6 +1,6 @@
 ---
 title: "A Python Program that Tweets Fetched Data from the icanhazdadjoke.com"
-datePublished: Wed Mar 06 2019 07:17:07 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-03-06T07:17:07.000Z
 cuid: ckgot6lq405g8o9s1gzpdb2vd
 slug: a-python-program-that-tweets-fetched-data-from-the-icanhazdadjokecom
 canonical: https://dev.to/highcenburg/a-python-program-which-tweets-from-the-icanhazdadjokecom-api-3197
